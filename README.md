@@ -1,9 +1,11 @@
-# <p>你好呀~ 这里是糖白咕咕雪的GitHub呢~☆</p>
-# <p>Konnichiwa~ Here is KukuYuki's GitHub desu~☆</p>
-- <b>糖白咕雪</b> | 18 | 是学生呀~
-- <b>Kuyuki Toshira</b> | 18 | Student~
-- Nice to meet you~
-- 很高兴见到你呀~
+### <p>你好呀~ 这里是糖白咕咕雪的GitHub呢~☆</p>
+### <p>Konnichiwa~ Here is KukuYuki's GitHub desu~☆</p>
+<hr>
+<b>糖白咕雪</b> | <b>Kuyuki Toshira</b> | 18 | 是学生呀~
+<br>
+- 不要和我键政哇...Please do not talk to me about any political topics~
+<br>
+- 很高兴见到你呀~Nice to meet you~☆
 <!--
 **SovietBall/SovietBall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
